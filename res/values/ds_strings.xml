@@ -16,4 +16,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!--AppOps-->
     <string name="appops_settings_title">App privacy</string>
+
+    <!-- Advanced reboot options -->
+    <string name="advanced_reboot_title">Advanced reboot</string>
+    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery, bootloader or performing a soft reboot</string>
 </resources>
