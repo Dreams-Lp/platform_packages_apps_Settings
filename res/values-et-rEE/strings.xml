@@ -752,7 +752,7 @@
     <string name="wifi_tether_configure_subtext" msgid="7957547035983257748">"<xliff:g id="NETWORK_SSID">%1$s</xliff:g> <xliff:g id="NETWORK_SECURITY">%2$s</xliff:g> kaasaskantav WiFi-tugijaam"</string>
     <string name="wifi_tether_configure_ssid_default" msgid="8467525402622138547">"AndroidHotspot"</string>
     <string name="home_settings" msgid="212375129455718176">"Avaekraan"</string>
-    <string name="display_settings_title" msgid="1708697328627382561">"Kuva"</string>
+    <string name="display_settings_title" msgid="1708697328627382561">"Ekraan"</string>
     <string name="sound_settings" msgid="5534671337768745343">"Heli"</string>
     <string name="ringtone_summary" msgid="2630023412632683493"></string>
     <string name="all_volume_title" msgid="4296957391257836961">"Helitugevused"</string>
@@ -803,7 +803,7 @@
     <string name="category_work" msgid="8699184680584175622">"Töö"</string>
     <string name="search_settings" msgid="1910951467596035063">"Otsing"</string>
     <string name="search_settings_summary" msgid="9205656546570654169">"Otsinguseadete ja -ajaloo haldamine"</string>
-    <string name="display_settings" msgid="7965901687241669598">"Kuva"</string>
+    <string name="display_settings" msgid="7965901687241669598">"Ekraan"</string>
     <string name="accelerometer_title" msgid="7854608399547349157">"Pööra ekraani automaatselt"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"Tahvelarvuti pööramisel automaatselt paigutuse ümberlülitamine"</string>
     <string name="accelerometer_summary_on" product="default" msgid="1133737282813048021">"Muuda telefoni pööramisel automaatselt orientatsiooni"</string>
